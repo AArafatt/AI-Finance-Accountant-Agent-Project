@@ -1,0 +1,191 @@
+2025-04-21 15:09:26,533 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 15:09:36,461 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 15:09:37,360 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 15:09:37,663 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 15:09:37,683 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 15:09:37,685 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 15:09:37,777 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.110:8000
+2025-04-21 15:09:37,778 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 15:09:37,779 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 15:09:39,956 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 15:09:41,672 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 15:09:42,500 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 15:09:42,515 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 15:09:42,521 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 15:09:42,524 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 15:09:42,565 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 15:09:42,570 - werkzeug - INFO -  * Debugger PIN: 515-115-193
+2025-04-21 15:13:14,651 - werkzeug - INFO -  * Detected change in 'H:\\Project and papers work\\AI Finance Accountant Agent Project\\app.py', reloading
+2025-04-21 15:13:14,908 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 15:13:17,172 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 15:13:19,142 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 15:13:19,977 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 15:13:19,990 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 15:13:19,995 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 15:13:19,997 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 15:13:20,031 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 15:13:20,035 - werkzeug - INFO -  * Debugger PIN: 515-115-193
+2025-04-21 15:15:38,028 - werkzeug - INFO -  * Detected change in 'H:\\Project and papers work\\AI Finance Accountant Agent Project\\app.py', reloading
+2025-04-21 15:15:38,242 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 15:15:40,717 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 15:15:42,809 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 15:15:43,479 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 15:15:43,490 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 15:15:43,495 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 15:15:43,497 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 15:15:43,531 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 15:15:43,534 - werkzeug - INFO -  * Debugger PIN: 515-115-193
+2025-04-21 15:16:15,245 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:16:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-21 15:16:15,369 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:16:15] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-21 15:16:15,385 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:16:15] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-21 15:16:15,437 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:16:15] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=f0skqrwbiJvYaJRkU0cn HTTP/1.1" 200 -
+2025-04-21 15:16:15,457 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:16:15] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-21 15:16:59,225 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 15:17:03,697 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 15:17:05,411 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 15:17:05,423 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 15:17:05,428 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 15:17:05,430 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 15:17:05,470 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.110:8000
+2025-04-21 15:17:05,470 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 15:17:05,472 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 15:17:07,768 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 15:17:09,286 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 15:17:10,090 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 15:17:10,101 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 15:17:10,106 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 15:17:10,108 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 15:17:10,143 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 15:17:10,146 - werkzeug - INFO -  * Debugger PIN: 515-115-193
+2025-04-21 15:17:34,102 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-21 15:17:34,159 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:34] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-21 15:17:34,166 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:34] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-21 15:17:34,210 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=f0skqrwbiJvYaJRkU0cn HTTP/1.1[0m" 304 -
+2025-04-21 15:17:43,253 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-21 15:17:43,278 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-21 15:17:43,279 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:43] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-21 15:17:43,289 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=f0skqrwbiJvYaJRkU0cn HTTP/1.1[0m" 304 -
+2025-04-21 15:17:43,298 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-21 15:17:43,857 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:43] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-21 15:17:43,880 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:43] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-21 15:17:43,881 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:43] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-21 15:17:43,891 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=f0skqrwbiJvYaJRkU0cn HTTP/1.1[0m" 304 -
+2025-04-21 15:17:43,899 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:17:43] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-21 15:19:52,024 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:19:52] "GET / HTTP/1.1" 200 -
+2025-04-21 15:19:52,662 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:19:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 15:20:53,568 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 15:20:55,026 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 15:20:55,830 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 15:20:55,910 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 15:20:55,914 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 15:20:55,916 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 15:20:55,957 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.110:8000
+2025-04-21 15:20:55,957 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 15:20:55,958 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 15:20:58,251 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 15:20:59,561 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 15:21:00,383 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 15:21:00,396 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 15:21:00,401 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 15:21:00,403 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 15:21:00,438 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 15:21:00,442 - werkzeug - INFO -  * Debugger PIN: 515-115-193
+2025-04-21 15:21:06,323 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:21:06] "GET / HTTP/1.1" 200 -
+2025-04-21 15:21:07,107 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:21:07] "GET / HTTP/1.1" 200 -
+2025-04-21 15:21:07,450 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:21:07] "GET / HTTP/1.1" 200 -
+2025-04-21 15:21:07,593 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:21:07] "GET / HTTP/1.1" 200 -
+2025-04-21 19:29:53,108 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 19:29:55,316 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 19:29:56,169 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 19:29:56,400 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 19:29:56,419 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 19:29:56,448 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 19:29:56,552 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.110:8000
+2025-04-21 19:29:56,552 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 19:29:56,553 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 19:29:58,893 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 19:29:59,976 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 19:30:00,800 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 19:30:00,812 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 19:30:00,817 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 19:30:00,819 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 19:30:00,853 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 19:30:00,856 - werkzeug - INFO -  * Debugger PIN: 515-115-193
+2025-04-21 19:30:42,869 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 19:30:42] "GET / HTTP/1.1" 200 -
+2025-04-21 19:30:42,981 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 19:30:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 19:42:52,520 - werkzeug - INFO -  * Detected change in 'H:\\Project and papers work\\AI Finance Accountant Agent Project\\app.py', reloading
+2025-04-21 19:42:52,876 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 19:42:55,745 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 19:42:57,622 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 19:42:58,468 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 19:42:58,521 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 19:42:58,526 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 19:42:58,528 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 19:42:58,600 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 19:42:58,604 - werkzeug - INFO -  * Debugger PIN: 515-115-193
+2025-04-21 19:43:01,160 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 19:43:01] "GET / HTTP/1.1" 200 -
+2025-04-21 19:43:37,510 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 19:43:39,273 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 19:43:40,037 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 19:43:40,049 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 19:43:40,053 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 19:43:40,055 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 19:43:40,095 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.110:8000
+2025-04-21 19:43:40,095 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 19:43:40,096 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 19:43:41,575 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 19:43:45,870 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 19:43:46,665 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 19:43:46,677 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 19:43:46,681 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 19:43:46,683 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 19:43:46,718 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 19:43:46,722 - werkzeug - INFO -  * Debugger PIN: 515-115-193
+2025-04-21 19:44:09,788 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 19:44:09] "GET / HTTP/1.1" 200 -
+2025-04-21 19:52:41,684 - werkzeug - INFO -  * Detected change in 'H:\\Project and papers work\\AI Finance Accountant Agent Project\\app.py', reloading
+2025-04-21 19:52:41,969 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 19:52:43,943 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 19:52:45,679 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 19:52:46,689 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 19:52:46,701 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 19:52:46,706 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 19:52:46,708 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 19:52:46,744 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 19:52:46,747 - werkzeug - INFO -  * Debugger PIN: 515-115-193
+2025-04-21 19:53:24,782 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 19:53:26,395 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 19:53:27,178 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 19:53:27,189 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 19:53:27,194 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 19:53:27,196 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 19:53:27,235 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.0.110:8000
+2025-04-21 19:53:27,236 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 19:53:27,237 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 19:53:28,738 - WebFinanceAccountantAgent - INFO - Initializing knowledge base...
+2025-04-21 19:53:30,411 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-21 19:53:31,207 - faiss.loader - INFO - Loading faiss with AVX2 support.
+2025-04-21 19:53:31,219 - faiss.loader - INFO - Successfully loaded faiss with AVX2 support.
+2025-04-21 19:53:31,224 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-21 19:53:31,226 - WebFinanceAccountantAgent - INFO - Knowledge base initialized successfully
+2025-04-21 19:53:31,261 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 19:53:31,264 - werkzeug - INFO -  * Debugger PIN: 515-115-193
+2025-04-21 19:53:31,333 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 19:53:31] "GET / HTTP/1.1" 200 -
+2025-04-21 19:54:35,307 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 19:54:35] "GET / HTTP/1.1" 200 -
